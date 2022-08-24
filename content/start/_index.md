@@ -1,3 +1,0 @@
-+++
-+++
-{{ "Hi! I'm Cy6erNinja and I will have a blog here soon. I'm new to opensource, but hope to dip my toes in it contributing to some open-source projects. I need a blog because I want to document my progress somewhere, so I've decided to use github pages for it. I'm learning Rust programming language at the moment and I think this will be the first topic I will document here. This is mostly for myself in order to come back later(when I'm 80 y.o) and take a look at what steps I have taken to reach some of my goals. I find github pages a very personal space because I own it(or Microsoft does? :) ). This is the main different for me comparing to Medium or HackerNoon. Let's see how it goes!"| markdown(inline=true) }}
